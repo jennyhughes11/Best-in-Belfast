@@ -18,7 +18,7 @@ h1 {
   }
 
 p {
- color: white;
+ color: blue;
  }
 
 img {
@@ -36,7 +36,6 @@ ul {
   list-style: none;
   padding:10px;
   background:black;
-  color:white;
   }
 li{
   display:inline;
