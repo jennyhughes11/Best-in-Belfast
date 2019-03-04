@@ -1,0 +1,43 @@
+h1 {
+ color:white;
+ font-family: monospace;
+ font-size: 60px;
+ }
+
+ html {
+   width: 100%;
+   height: 100%;
+ }
+
+ a{
+   color:white ;
+ }
+
+.jen {
+  background-color: black;
+  }
+
+p {
+ color: blue;
+ }
+
+img {
+  width: 100%;
+  height:100px;
+  }
+header {
+  background-image: url(belfast.jpg);
+  text-align: center;
+  width: 100%;
+  height: 100px;
+}
+
+ul {
+  list-style: none;
+  padding:10px;
+  background:black;
+  }
+li{
+  display:inline;
+  padding: 0px 0px 10px 10px;
+  }
